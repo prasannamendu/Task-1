@@ -1,0 +1,7 @@
+pypdf2
+sentence-transformers
+faiss-cpu
+transformers
+torch
+numpy
+tabulate
